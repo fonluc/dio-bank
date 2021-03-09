@@ -1,5 +1,5 @@
 <h1>DIO.Bank (Simples Aplicação de Transações Financeiras)</h2>
-<h3> Este projeto foi realizado durante o bootcamp .NET Fundamentals da Digital Innovation One, com a ajuda do instrutor Eliézer Zarpelão (@elizarp). </h3>
+<h3>📜 Este projeto foi realizado durante o bootcamp .NET Fundamentals da Digital Innovation One, com a ajuda do instrutor Eliézer Zarpelão (@elizarp). </h3>
 
 <p align="center">
 <img src="https://github.com/fonluc/dio-bank/blob/main/diobank-interface.png" alt="diobank-interface" border="0">
