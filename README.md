@@ -1,4 +1,4 @@
-<h1>DIO.Bank (Aplicação de Transações Financeiras)</h2>
+<h1>DIO.Bank (Financial Transactions Application)</h2>
 <h3>📜 This project was carried out during Digital Innovation One Inc. .NET Fundamentals Bootcamp with the help of instructor Eliézer Zarpelão. (@elizarp). </h3>
 
 <p align="center">
