@@ -2,7 +2,7 @@
 <h3> Este projeto foi realizado durante o bootcamp .NET Fundamentals da Digital Innovation One, com a ajuda do instrutor Eliézer Zarpelão (@elizarp). </h3>
 
 <p align="center">
-<img src="https://github.com/fonluc/diobank/blob/main/github/diobank-interface.png" alt="diobank-interface" border="0">
+<img src="https://github.com/fonluc/dio-bank/blob/main/diobank-interface.png" alt="diobank-interface" border="0">
 </p>
 
 
