@@ -1,5 +1,5 @@
 <h1>DIO.Bank (Aplicação de Transações Financeiras)</h2>
-<h3>📜 Este projeto foi realizado durante o bootcamp .NET Fundamentals da Digital Innovation One, com a ajuda do instrutor Eliézer Zarpelão (@elizarp). </h3>
+<h3>📜 This project was carried out during Digital Innovation One Inc. .NET Fundamentals Bootcamp with the help of instructor Eliézer Zarpelão. (@elizarp). </h3>
 
 <p align="center">
 <img src="https://github.com/fonluc/dio-bank/blob/main/diobank-interface.png" alt="diobank-interface" border="0">
@@ -7,7 +7,7 @@
 
 
 <h3>
-💡 Durante o projeto foi ensinado a respeito de conceitos importantes como Debugging que serve para testar e localizar potenciais pontos de melhoria no código.</h3>
+💡 💡 During the project, I was taught about important concepts such as Debugging, which is used to find and reduce defects in the code.</h3>
 <p align="center">
 <img src="https://github.com/fonluc/dio-bank/blob/main/diobank-code.png" alt="diobank-code" border="0">
 </p>
@@ -16,8 +16,8 @@
 
 - C#;
 - .NET 5;
-- Paradigma de Orientação a Objetos.
+- Object Orientation Paradigm.
 
 <h3>💻 Techniques Used:</h3>
 
-<p>Entre outras técnicas, cabe ressaltar o uso de Enums para selecionar entre opções dentro da aplicação.<p>
+<p>Among other techniques, it is worth mentioning the use of Enums, which through abstract data allows assigning values chosen by the programmer.<p>
