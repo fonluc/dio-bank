@@ -9,7 +9,7 @@
 <h3>
 💡 Durante o projeto foi ensinado a respeito de conceitos importantes como Debugging que serve para testar e localizar potenciais pontos de melhoria no código.</h3>
 <p align="center">
-<img src="hhttps://github.com/fonluc/dio-bank/blob/main/diobank-code.png" alt="diobank-code" border="0">
+<img src="https://github.com/fonluc/dio-bank/blob/main/diobank-code.png" alt="diobank-code" border="0">
 </p>
 
 <h3>🛠 Technologies Involved:</h3>
